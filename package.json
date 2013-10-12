@@ -1,0 +1,14 @@
+{
+    "devDependencies": {
+        "coffee-script": "*",
+        "bower": "*",
+        "grunt": "*",
+        "grunt-cli": "*",
+        "grunt-contrib-coffee": "*",
+        "grunt-contrib-watch": "*"
+        "testem": "*"
+    },
+    "scripts": {
+        "build": "npm install && bower install && grunt"
+    }
+}

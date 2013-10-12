@@ -1,0 +1,8 @@
+{
+  "framework": "jasmine",
+  "src_files": [
+    "bower_components/underscore/underscore-min.js",
+    "js/main.js",
+    "js/test.js"
+  ]
+}
